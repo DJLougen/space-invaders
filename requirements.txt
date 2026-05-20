@@ -1,0 +1,7 @@
+gymnasium>=0.29.0
+numpy>=1.24.0
+Pillow>=10.0.0
+# Optional: for training with DQN
+# stable-baselines3[extra]>=2.1.0
+# Optional: for human-mode rendering
+# pygame>=2.5.0
